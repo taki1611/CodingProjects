@@ -4,7 +4,7 @@
     margin-right:auto;
 }
 
-input [type="button"] {
+#result {
     width: 100%;
     padding: 20px 40px;
     background-color: red;
@@ -15,7 +15,7 @@ input [type="button"] {
     border-radius: 5px;
 }
 
-input [type="text"] {
+#clear {
     padding: 20px 40px;
     font-size: 24px;
     font-weight: bold;
