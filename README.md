@@ -5,6 +5,8 @@ First and foremost I will start with coding basic projects and move up in diffuc
 
 Beginner:
 Code a calculator
+Code a tetris game
+Code a snake game
 
 1. Language learning app that is fun 
 2. Digital diary or journal where you can write what you want
